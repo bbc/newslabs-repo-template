@@ -1,3 +1,9 @@
+  ---
+title: 'Bug report'
+labels: bug
+assignees: 
+  ---
+
 ## Bug description
 <Description of bug - include problem statement>
 
