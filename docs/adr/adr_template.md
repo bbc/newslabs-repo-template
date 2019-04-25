@@ -1,11 +1,3 @@
----
-name: Architectural Decision Records 
-about: Records of architectural decisions
-title: ''
-labels: ''
-assignees: ''
-
----
 # [short title of solved problem and solution]
 
 * Status: [accepted | superseded by [ADR-0005](0005-example.md) | deprecated | …] <!-- optional -->
