@@ -48,4 +48,4 @@
 1. <Steps to deployment>
  
 ## Contact
-Please contact [BBC News Labs Team](***REMOVED***) if you want to get in touch.
+Please contact [BBC News Labs Team](projects@bbcnewslabs.co.uk) if you want to get in touch.
