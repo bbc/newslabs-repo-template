@@ -1,7 +1,7 @@
-# <Project Name>
+# <%= name %>
 
 ## Brief of the project
-<description>
+<%= description %>
 [Link to API]()
 [Confluence Page](<link to confluence page>)
 ![](<Screenshot of UI>)
